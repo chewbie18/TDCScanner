@@ -1,0 +1,11 @@
+{
+  "name":"CHEWBIE Smart OMR Checker",
+  "short_name":"CHEWBIE OMR",
+  "description":"Offline-first OMR answer sheet generator, scanner, and exam gradebook.",
+  "start_url":"./index.html",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f6f3f4",
+  "theme_color":"#861b36",
+  "icons":[{"src":"./assets/app-icon.svg","type":"image/svg+xml","sizes":"any","purpose":"any maskable"}]
+}
